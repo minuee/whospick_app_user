@@ -1,0 +1,1 @@
+appcenter codepush release-react -a whospick/WhosPick_iOS -d Production

@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/SecureStorage/GULKeychainStorage.m \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h

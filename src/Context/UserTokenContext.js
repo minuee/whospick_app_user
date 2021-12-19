@@ -1,0 +1,48 @@
+import {createContext} from 'react';
+
+const UserTokenContext = createContext({
+  isSessionAlive: false,
+  userEmail: '',
+  userImage: '',
+  userImageNo: '',
+  userName: '',
+  userPhone: '',
+  isActor: false,
+  isDirector: false,
+  userPoint: 0,
+  userCode: '',
+  haveProfile: false,
+  isNewPush: false,
+  actorInfo: {
+    actorType: {},
+    actorImage: [],
+    actorName: '',
+    actorDesc: '',
+    actorHeight: 0,
+    actorWeight: 0,
+    actorBirth: '',
+    actorSex: '',
+    actorKeyword: [],
+    topSize: 0,
+    bottomSize: 0,
+    footSize: 0,
+    lastSchool: '',
+    major: '',
+    specialty: '',
+    agency: false,
+    careerHistory: [],
+    tagList: [],
+    videoUrl: '',
+    snsUrl: {
+      facebook: '',
+      instagram: '',
+      twitter: '',
+    },
+    actorSongType: {id: '', name: ''},
+  },
+  setIsSessionAlive: () => {},
+  setUserInfo: () => {},
+  resetUserInfo: () => {},
+});
+
+export default UserTokenContext;

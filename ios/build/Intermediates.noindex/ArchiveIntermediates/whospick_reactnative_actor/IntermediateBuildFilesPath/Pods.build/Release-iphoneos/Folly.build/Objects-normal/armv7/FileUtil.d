@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/FileUtil.cpp \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/FileUtil.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/Portability.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/CPortability.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/Range.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/String.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/CpuId.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/Likely.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/Traits.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/ScopeGuard.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/Utility.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/lang/UncaughtExceptions.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/net/NetworkSocket.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/net/detail/SocketFileDescriptorMap.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/Windows.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/Fcntl.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/SysUio.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/IOVec.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/SysTypes.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/Unistd.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/detail/FileUtilDetail.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/net/NetOps.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/Sockets.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/Stdlib.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/SysFile.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Folly/folly/portability/SysStat.h

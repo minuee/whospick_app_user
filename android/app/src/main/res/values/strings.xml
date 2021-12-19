@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">후즈픽 배우</string>
+    <string name="kakao_app_key">e1fc51ed7f32092a58c68d26693197bd</string>
+    <string name="server_client_id">245027806384-3ebobkhlm4js2gc2i7fq7uqpahtormao.apps.googleusercontent.com</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">06aBYfFYTanaR30vdJCy0elek4AkoZtKukjzm</string>
+</resources>

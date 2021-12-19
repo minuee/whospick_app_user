@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1013257010132",
+    "firebase_url": "https://whospick-1140c.firebaseio.com",
+    "project_id": "whospick-1140c",
+    "storage_bucket": "whospick-1140c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013257010132:android:cb6f6e94adf2b9afdb3441",
+        "android_client_info": {
+          "package_name": "com.whospick.actor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013257010132-9up8s59vqcj47hbqrrl6bun4q6m85bea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whospick.actor.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1013257010132-4it9eklauiplhtb5hcr2vjage1qvocku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIU2kQrN9hQoQxBsQqfu1xCkVKM8-j0wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013257010132-4it9eklauiplhtb5hcr2vjage1qvocku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1013257010132-6d5rej04vchshflt96eqbofa2cetqi5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whospick.app.director"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013257010132:android:a2b234ece5bbc029db3441",
+        "android_client_info": {
+          "package_name": "com.whospick.director.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013257010132-8fki7r5sb3klos93drsela28pbom256h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whospick.director.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1013257010132-4it9eklauiplhtb5hcr2vjage1qvocku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIU2kQrN9hQoQxBsQqfu1xCkVKM8-j0wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013257010132-4it9eklauiplhtb5hcr2vjage1qvocku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1013257010132-6d5rej04vchshflt96eqbofa2cetqi5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whospick.app.director"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

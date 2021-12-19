@@ -1,0 +1,44 @@
+dependencies: \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/node_modules/@react-native-firebase/messaging/ios/RNFBMessaging/RNFBMessaging+UNUserNotificationCenter.m \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Target\ Support\ Files/RNFBMessaging/RNFBMessaging-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/RNFBApp/RNFBRCTEventEmitter.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/React-Core/React/RCTJSInvokerModule.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/node_modules/@react-native-firebase/messaging/ios/RNFBMessaging/RNFBMessagingSerializer.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/Firebase/Firebase.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseCore/FirebaseCore.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseCore/FIRConfiguration.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseCore/FIRVersion.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_actor/BuildProductsPath/Release-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_actor/BuildProductsPath/Release-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Modules/module.modulemap \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_actor/BuildProductsPath/Release-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRAnalytics+Consent.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_actor/BuildProductsPath/Release-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_actor/BuildProductsPath/Release-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_actor/BuildProductsPath/Release-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_actor/BuildProductsPath/Release-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/build/Intermediates.noindex/ArchiveIntermediates/whospick_reactnative_actor/BuildProductsPath/Release-iphoneos/XCFrameworkIntermediates/FirebaseAnalytics/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Public/yoga/Yoga.modulemap \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseInstallations/FirebaseInstallations.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseInstallations/FIRInstallations.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseMessaging/FirebaseMessaging.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseMessaging/FIRMessaging.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/ios/Pods/Headers/Private/FirebaseMessaging/FIRMessagingExtensionHelper.h \
+  /Users/sv/Documents/WorkPlace/project/whospick-app-user/node_modules/@react-native-firebase/messaging/ios/RNFBMessaging/RNFBMessaging+UNUserNotificationCenter.h
